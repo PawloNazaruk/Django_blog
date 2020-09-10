@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="628214b0-1983-4ab4-88d6-2d8206df8578" name="Default Changelist" comment="" />
+    <list default="true" id="628214b0-1983-4ab4-88d6-2d8206df8578" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hHNrqy9eHJbeorLSG9Xf8ZKbzk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -78,22 +93,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1034" y="520" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599664351531" />
-    <state width="991" height="272" key="GridCell.Tab.0.bottom" timestamp="1599671950905">
+    <state width="1005" height="272" key="GridCell.Tab.0.bottom" timestamp="1599756079581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599671950905" />
-    <state width="991" height="272" key="GridCell.Tab.0.center" timestamp="1599671950905">
+    <state width="1005" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599756079581" />
+    <state width="1005" height="272" key="GridCell.Tab.0.center" timestamp="1599756079580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599671950905" />
-    <state width="991" height="272" key="GridCell.Tab.0.left" timestamp="1599671950905">
+    <state width="1005" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599756079580" />
+    <state width="1005" height="272" key="GridCell.Tab.0.left" timestamp="1599756079580">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599671950905" />
-    <state width="991" height="272" key="GridCell.Tab.0.right" timestamp="1599671950905">
+    <state width="1005" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599756079580" />
+    <state width="1005" height="272" key="GridCell.Tab.0.right" timestamp="1599756079581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="991" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599671950905" />
+    <state width="1005" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599756079581" />
     <state x="834" y="151" key="SettingsEditor" timestamp="1599664368519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
